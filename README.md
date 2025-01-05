@@ -11,4 +11,4 @@ Instructions for use:
 3. Install packages 
 4. run script - python example.py
 
-5. 
+5. Upload a .env file with your OpenAi API key.
